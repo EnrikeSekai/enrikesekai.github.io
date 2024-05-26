@@ -1,0 +1,84 @@
+body {
+    background-color: #ffffff;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.encabezado {
+    background-image: url(../imgs/LOGO\ DRIXELSTORE\ HEADER.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 191px;
+    font-family: 'Tahoma';
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: left;
+}
+
+h2 {
+    font-family: 'Tahoma';
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.imagen {
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px rgb(0, 0, 0);
+    margin: 1em;
+    height: 210px;
+    width: 210px;
+}
+
+.títuloproducto {
+    text-align: center;
+    font-family: 'Tahoma';
+    color: #ffffff;
+    background-color: #000000;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 2%
+}
+
+.tabla1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    font-family: 'Tahoma';
+}
+
+.diseño {
+    width: 260px;
+    height: 120px;
+    box-shadow: 6px 6px 6px rgb(0, 0, 0);
+    color: #000000;
+    border-radius: 5px;
+    align-items: center;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+}
+
+.piedp {
+    font-family: 'Tahoma';
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+a {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: white;
+}
+
+.instagram {
+    padding-top: 2px;
+    height: 20px;
+    width: 20px;
+}
